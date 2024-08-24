@@ -1,0 +1,35 @@
+html{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+    padding: 0px;
+}
+
+p{
+    color: white;
+    text-transform: capitalize;
+    border: px solid white;
+}
+
+.img-motivational{
+    width: 100%;
+    border: 5px solid white;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 15%;
+    margin-top: 15%;
+
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+
+    border: 2px solid rgb(17, 17, 17);
+    padding: 10%;
+    background-color: rgb(15, 15, 15);
+}
